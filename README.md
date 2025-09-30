@@ -140,7 +140,7 @@ Double-check the active repo and branch before pushing.
 ## Recommended Git Learning Resource
 
 For a practical and clear introduction to Git, check out Hitesh Choudhary’s Git tutorial here:  
-[Learn Git by Hitesh Choudhary](https://www.youtube.com/watch?v=8JJ101D3knE)
+[Learn from the OG - Hitesh Choudhary](https://www.youtube.com/watch?v=tz82ola3oy0)
 
 ---
 
