@@ -149,7 +149,7 @@ For a practical and clear introduction to Git, check out Hitesh Choudhary’s Gi
 For questions or help, feel free to reach out:  
 
 - Email: saifulislam778866@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saifulislam778866)
+- LinkedIn: [SAIFUL](https://www.linkedin.com/in/saifulislam778866)
 
 ---
 
