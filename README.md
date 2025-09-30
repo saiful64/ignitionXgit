@@ -66,7 +66,6 @@ Example:
 /projects
    /MyProject
       project.json
-      /com.inductiveautomation...
 ```
 
 If `project.json` is missing, the Designer will ignore your project.
@@ -102,7 +101,7 @@ The basic workflow for version control in Git:
 | Branch  | `git checkout -b feature/new-feature`           | Creates a separate line of development                 |
 | Switch  | `git checkout main`                             | Switches to another branch                            |
 
-**(Attach Screenshot: VS Code terminal showing clone/add/commit/push/pull commands)**
+
 
 ---
 
@@ -138,11 +137,25 @@ Double-check the active repo and branch before pushing.
 
 ---
 
+## Recommended Git Learning Resource
+
+For a practical and clear introduction to Git, check out Hitesh Choudhary’s Git tutorial here:  
+[Learn Git by Hitesh Choudhary](https://www.youtube.com/watch?v=8JJ101D3knE)
+
+---
+
+## Contact
+
+For questions or help, feel free to reach out:  
+
+- Email: saifulislam778866@gmail.com  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saifulislam778866)
+
+---
+
 ## Final Notes
 
 Setting up Git with Ignition ensures safe rollback, avoids accidental overwrites, and gives you a trackable record of your changes.  
 Start simple—clone, add, commit, push, pull. Branches will come naturally once you're comfortable.
 
 ---
-
-**Screenshots**  
